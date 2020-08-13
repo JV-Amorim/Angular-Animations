@@ -1,0 +1,16 @@
+#navbar-container {
+    margin-top: 20px;
+    margin-right: 5px;
+    text-align: right;
+    max-width: 500px;
+}
+
+#navbar-container a {
+    cursor: pointer;
+    margin-right: 25px;
+    padding: 1px 6px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: solid 2px #2aa8da;
+}

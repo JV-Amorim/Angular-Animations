@@ -1,0 +1,72 @@
+#first-question-container {
+    position: relative;
+    padding: 0px 20px;
+    max-width: 500px;
+}
+
+#logo {
+    position: absolute;
+    left: 20px;
+    top: -50px;
+    font-size: 55px;
+    font-weight: 800;
+}
+
+#return-button {
+    padding-top: 60px;
+    text-align: center;
+}
+
+#return-button svg {
+    fill: #2aa8da;
+}
+
+#first-question-container h3 {
+    padding: 30px 5px 0px 5px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+#first-question-container h3 .highlight {
+    border-bottom: solid 3px #2aa8da;
+}
+
+#options {
+    margin-top: 40px;
+    padding: 0px 0px 0px 10px;
+}
+
+#options div {
+    position: relative;
+    margin-bottom: 5px;
+}
+
+#options input {
+    opacity: 0;
+    width: 20px;
+    height: 20px;
+    z-index: 1;
+}
+
+#options .input-radio {
+    content: " ";
+    width: 20px;
+    height: 20px;
+    border: 2px solid #2aa8da;
+    position: absolute;
+    left: 0;
+    top: 35px;
+    border-radius: 50%;
+    z-index: 0;
+    transition: border .1s linear;
+}
+
+#options label {
+    display: inline-block;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #2aa8da;
+}
