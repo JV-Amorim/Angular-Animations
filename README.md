@@ -19,13 +19,9 @@ Projeto simples utilizado no estudo de animações de transição entre rotas no
 
 
 <p align="center">
-  <kbd>
-    <img src="readme-img/img-01.png">
-  </kbd>
-  <kbd>
-    <img src="readme-img/gif-01.gif">
-  </kbd>
+  <img src="readme-img/img-01.png" width="56%">
+  <img src="readme-img/gif-01.gif">
 </p>
 
 
-Obs.: O projeto não está muito responsivo. Foi feito no pensamento mobile-first, então as coisas estão melhores adaptadas para resolução com largura inferior a 500px.
+<i>Obs.: O projeto não está muito responsivo. Foi feito no pensamento mobile-first, então as coisas estão melhores adaptadas para resolução com largura inferior a 500px.</i>
