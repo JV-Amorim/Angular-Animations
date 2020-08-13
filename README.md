@@ -19,8 +19,8 @@ Projeto simples utilizado no estudo de animações de transição entre rotas no
 
 
 <p align="center">
-  <img src="readme-img/img-01.png" width="56%">
-  <img src="readme-img/gif-01.gif">
+  <img src="readme-img/img-01.png" height="500px">
+  <img src="readme-img/gif-01.gif" height="500px">
 </p>
 
 
