@@ -1,0 +1,15 @@
+@keyframes start-animation {
+    0% { opacity: 0; top: -100px; }
+    50% { opacity: 0; top: -100px; }
+    100% { opacity: 1; top: 0px; }
+}
+
+#return-button, #main-text, #options {
+    position: relative;
+    animation-name: start-animation;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
